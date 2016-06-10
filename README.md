@@ -22,9 +22,11 @@ Does not include refraction, soft shadows, cone lights, texture support, more co
 #### Compilation / Execution
 
 Fast:
+
 	cargo run --release
 
 Debug:
+
 	cargo run
 
 #### Known issues
