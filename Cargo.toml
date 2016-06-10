@@ -1,0 +1,6 @@
+[package]
+name = "raytracer"
+version = "0.1.0"
+authors = ["Daniel Lobo <feloxolofoxifalitu@gmail.com>"]
+[dependencies]
+time = "*"
